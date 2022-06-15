@@ -1,2 +1,3 @@
-# siteresponsivo-html-css
-Projeto pessoal, no qual desenvolvi um site experimental, totalmente responsivo com Html e CSS.
+#  Site responsiv.hmtl-css
+
+Esse foi o projeto  que eu aprendi na práticaa a criar um site totalmente  responsivel ultilizando Html e Css.
